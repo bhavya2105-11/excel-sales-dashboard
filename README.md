@@ -10,3 +10,15 @@
 * Enabled users to filter data and explore insights through an intuitive interface.
 * Demonstrated skills in **Microsoft Excel**, **Data Cleaning**, **Data Analysis**, and **Data Visualization**.
 
+## Dashboard Preview
+
+![Dashboard](00001DASHBOARD.PNG)
+
+## Tools Used
+- Microsoft Excel
+- Pivot Tables
+- Pivot Charts
+- Slicers
+- Data Cleaning
+- Data Analysis
+- Data Visualization
